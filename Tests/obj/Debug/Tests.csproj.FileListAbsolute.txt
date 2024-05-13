@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Tests\bin\Debug\Tests.dll
+C:\Users\User\Desktop\Tests\bin\Debug\Tests.pdb
+C:\Users\User\Desktop\Tests\bin\Debug\calculator.exe
+C:\Users\User\Desktop\Tests\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\Tests\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\Tests\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\Desktop\Tests\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\User\Desktop\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\Tests\bin\Debug\calculator.pdb
+C:\Users\User\Desktop\Tests\bin\Debug\calculator.exe.config
+C:\Users\User\Desktop\Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tests\obj\Debug\Tests.csproj.Up2Date
+C:\Users\User\Desktop\Tests\obj\Debug\Tests.dll
+C:\Users\User\Desktop\Tests\obj\Debug\Tests.pdb
